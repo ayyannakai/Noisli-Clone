@@ -8,7 +8,7 @@ function updateContent() {
     if (screenWidth <= 667){
         main_info.innerHTML = "Your digital place <br/> for calm and <br/> focus"
         trying.style.display = 'none'
-        second_cont.src = '/assets/phone_1.jpg'
+        second_cont.src = './assets/phone_1.jpg'
     } 
 
 }
